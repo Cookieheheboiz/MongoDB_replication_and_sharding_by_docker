@@ -17,20 +17,20 @@
 ### Khởi tạo cấu hình Replica Set:
 <img width="1132" height="508" alt="image" src="https://github.com/user-attachments/assets/5e32b9f5-68b4-4c79-8775-5121089431cf" />
 
-##### Khai báo các node thành viên:
+### Khai báo các node thành viên:
 <img width="1139" height="555" alt="image" src="https://github.com/user-attachments/assets/5b0555eb-539b-4c8b-9cc8-d35a1e0d14bc" />
 
-##### Thêm dữ liệu và thử xem dữ liệu có replicate sang secondary không:
+### Thêm dữ liệu và thử xem dữ liệu có replicate sang secondary không:
 <img width="845" height="233" alt="image" src="https://github.com/user-attachments/assets/75682144-212b-49ce-930d-9ab905942e00" />
 
-##### kiểm tra với node2:
+### kiểm tra với node2:
 <img width="1129" height="505" alt="image" src="https://github.com/user-attachments/assets/5ee6f0e3-7de4-4ba1-adde-662ee47897c3" />
 <img width="1190" height="460" alt="image" src="https://github.com/user-attachments/assets/c09ffe18-3f21-49bf-8fd2-0e036eac83bf" />
 
-##### Thử dùng mongo1 (primary) xong kiểm tra lúc này một trong các secondary sẽ tự động chuyển thành primary:
+### Thử dùng mongo1 (primary) xong kiểm tra lúc này một trong các secondary sẽ tự động chuyển thành primary:
 <img width="1152" height="508" alt="image" src="https://github.com/user-attachments/assets/3842e4de-8aa1-4657-a7c2-2436b813d3bb" />
 
-###### Lúc này mongo2 từ secondary đã thành primary:
+### Lúc này mongo2 từ secondary đã thành primary:
 <img width="876" height="478" alt="image" src="https://github.com/user-attachments/assets/4ffded50-b8bc-46ea-8531-6cae4f0b7e72" />
 
 ## Sharding:
